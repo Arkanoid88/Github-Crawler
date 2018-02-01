@@ -54,7 +54,6 @@ def main(keyword, extension):
 
 
 def update():
-    print("sono qui")
     file = open('crawler_results/result.txt', 'rb')  #file originale con la lista disordinata
 
     objs = []
